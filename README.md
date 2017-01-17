@@ -4,4 +4,4 @@
 
 ### Just run: `$ npm start`
 
-[https://tomsoir.github.io/react-battleship/?ref](Live demo) 
+[Live demo](https://tomsoir.github.io/react-battleship/?ref) 
